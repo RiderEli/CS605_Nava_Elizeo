@@ -1,0 +1,120 @@
+TEST #1
+
+Welcome to the Calculator
+------------------------------------------------------------------------
+Enter your first number: 6.372
+Enter your second number: 1.663
+------------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide?multiply
+6.372 * 1.663 = 10.596636
+------------------------------------------------------------------------
+Would you like to recalculate? yes/noyes
+------------------------------------------------------------------------
+Enter your first number: 433.552
+Enter your second number: 13.00055
+------------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide?add
+433.552 + 13.00055 = 446.55255
+------------------------------------------------------------------------
+Would you like to recalculate? yes/nono
+Thank you for using this calculator
+This program has been turned off
+
+TEST #2
+
+Welcome to the Calculator
+------------------------------------------------------------------------
+Enter your first number: 6
+Enter your second number: 7
+------------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide? add
+6.0 + 7.0 = 13.0
+------------------------------------------------------------------------
+Would you like to recalculate? yes/no yes
+------------------------------------------------------------------------
+Enter your first number: 4
+Enter your second number: 5
+------------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide? multiply
+4.0 * 5.0 = 20.0
+------------------------------------------------------------------------
+Would you like to recalculate? yes/no no
+Thank you for using this calculator
+This program has been turned off
+
+TEST #3
+
+Welcome to the Calculator
+------------------------------------------------------------------------
+Enter your first number: e
+Enter your second number: 2
+Please enter numbers, not letters.
+------------------------------------------------------------------------
+Enter your first number: 
+
+TEST #4
+Welcome to the Calculator
+------------------------------------------------------------------------
+Would you like to calculate decimals? yes/no yes
+------------------------------------------------------------------------
+Enter your first number: 3
+Enter your second number: 2
+
+Process finished with exit code 0
+
+TEST #5
+Welcome to the Calculator
+------------------------------------------------------------------------
+Would you like to calculate decimals? yes/noyes
+------------------------------------------------------------------------
+Enter your first number: 2.9
+Enter your second number: 40.22
+------------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide?add
+2.9 + 40.22 = 43.12
+------------------------------------------------------------------------
+Would you like to recalculate? yes/no yes
+------------------------------------------------------------------------
+Would you like to calculate decimals? yes/no no
+------------------------------------------------------------------------
+Enter your first number: 2
+Enter your second number: 4
+-----------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide? multiply
+2 * 4 = 8
+------------------------------------------------------------------------
+Would you like to recalculate? yes/no yes
+------------------------------------------------------------------------
+Would you like to calculate decimals? yes/noyes
+------------------------------------------------------------------------
+Enter your first number: 55
+Enter your second number: 5
+------------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide?add
+55.0 + 5.0 = 60.0
+------------------------------------------------------------------------
+Would you like to recalculate? yes/noyes
+------------------------------------------------------------------------
+Would you like to calculate decimals? yes/nono
+------------------------------------------------------------------------
+Enter your first number: 56
+Enter your second number: 2
+-----------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide? divide
+56 / 2 = 28.0
+------------------------------------------------------------------------
+Would you like to recalculate? yes/no yes
+------------------------------------------------------------------------
+Would you like to calculate decimals? yes/no yes
+------------------------------------------------------------------------
+Enter your first number: 2.44
+Enter your second number: 30
+------------------------------------------------------------------------
+Would you like to add, subtract, multiply or divide? subtract
+2.44 - 30.0 = -27.56
+------------------------------------------------------------------------
+Would you like to recalculate? yes/nono
+Thank you for using this calculator
+This program has been turned off
+
+Process finished with exit code 0
